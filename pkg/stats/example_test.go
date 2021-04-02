@@ -60,5 +60,5 @@ func ExampleTotalInCategory() {
 	fmt.Println(TotalInCategory(payments, "grocery"))
 
 	//Output:
-	//3000000
+	//1000000
 }
